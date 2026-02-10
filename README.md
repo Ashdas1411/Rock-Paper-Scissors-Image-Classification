@@ -96,5 +96,5 @@ Model evaluation includes accuracy and loss metrics, confusion matrix analysis, 
 
 ## Author
 
-- **Arka Das**  
-- Machine Learning Enthusiast
+ **Arka Das**  
+ Machine Learning Enthusiast
